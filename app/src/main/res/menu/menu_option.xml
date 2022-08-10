@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemPeminjaman"
+        android:title="Peminjaman" />
+    <item
+        android:id="@+id/itemDenda"
+        android:title="Denda" />
+    <item
+        android:id="@+id/itemEdit"
+        android:title="Edit Profil" />
+    <item
+        android:id="@+id/itemLogout"
+        android:title="Log Out" />
+</menu>
